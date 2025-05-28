@@ -46,4 +46,11 @@ document.addEventListener("DOMContentLoaded",function(){
     })
 
 
+
+
+
+
+    const glightbox = GLightbox({
+        selector : '.glightbox'
+    });
 })
